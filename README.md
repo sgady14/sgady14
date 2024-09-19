@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+😄 Pronouns: she/her
+🔭 I’m currently working on ways to use computing to teach mathematics
+
 <!--
 **sgady14/sgady14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
