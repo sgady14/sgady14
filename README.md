@@ -1,6 +1,8 @@
 ## Hi there 👋
 
 😄 Pronouns: she/her
+
+
 🔭 I’m currently working on ways to use computing to teach mathematics
 
 <!--
